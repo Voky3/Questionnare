@@ -1,0 +1,6 @@
+@OnlineDotaznik.API_HostAddress = http://localhost:5285
+
+GET {{OnlineDotaznik.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

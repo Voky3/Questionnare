@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "OnlineDotaznik.API.Controllers.RegistrationController",
+    "Method": "Post",
+    "RelativePath": "api/Registration",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "OnlineDotaznik.API.Models.Registration",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

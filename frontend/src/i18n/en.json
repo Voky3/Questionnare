@@ -1,0 +1,26 @@
+{
+    "title": "Online questionnaire",
+    "firstName": "First name",
+    "lastName": "Last name",
+    "birthNumber": "Birth number",
+    "noBirthNumber": "I don't have a birth number",
+    "birthDate": "Birth date",
+    "gender": "Gender",
+    "email": "Email",
+    "nationality": "Nationality",
+    "consentToGDPR": "I agree with personal data processing",
+    "submit": "Submit",
+    "genderOptions": {
+      "male": "Male",
+      "female": "Female",
+      "other": "Other"
+    },
+    "nationalities": {
+      "cz": "Czech Republic",
+      "sk": "Slovakia",
+      "de": "Germany",
+      "us": "United States",
+      "fr": "France"
+    }
+  }
+  

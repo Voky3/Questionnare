@@ -1,0 +1,26 @@
+{
+    "title": "Online dotazník",
+    "firstName": "Jméno",
+    "lastName": "Příjmení",
+    "birthNumber": "Rodné číslo",
+    "noBirthNumber": "Nemám rodné číslo",
+    "birthDate": "Datum narození",
+    "gender": "Pohlaví",
+    "email": "Email",
+    "nationality": "Státní příslušnost",
+    "consentToGDPR": "souhlasím se zpracováním osobních údajů",
+    "submit": "Odeslat",
+    "genderOptions": {
+      "male": "Muž",
+      "female": "Žena",
+      "other": "Jiné"
+    },
+    "nationalities": {
+      "cz": "Česká republika",
+      "sk": "Slovensko",
+      "de": "Německo",
+      "us": "Spojené státy",
+      "fr": "Francie"
+    }
+  }
+  

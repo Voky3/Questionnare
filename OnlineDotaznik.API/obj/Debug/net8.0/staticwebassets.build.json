@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "mJDQvbBNkmnivC7K9qCvNZturnG1Fc899UWkguCCml4=",
+  "Source": "OnlineDotaznik.API",
+  "BasePath": "_content/OnlineDotaznik.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
