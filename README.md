@@ -1,7 +1,11 @@
-# OnlineDotaznik
+# Online Questionnaire (Online Dotazník)
 
 - Last updated: 9.4.2025  
 - Project using ASP.NET backend with pre-compiled React + TS frontend
+
+<div style="display: flex; align-items: flex-start;">
+   <img src="./ReadmeSources/questionnaire.png" alt="" style="width: 70%; margin-left: 20px;"/>
+   </div>
 
 ## Table of Contents
 - [Prerequisites](#prerequisites)
@@ -60,7 +64,13 @@ npm run build
 ## Output
 
 - Record is checked and recorded in the Db
+<div style="display: flex; align-items: flex-start;">
+   <img src="./ReadmeSources/dbRecord.png" alt="" style="width: 100%; margin-right: 20px;"/>
+   </div>
+<br>
+
 - The response is returned as JSON and printed to the browser console
 <div style="display: flex; align-items: flex-start;">
    <img src="./ReadmeSources/jsonResponse.png" alt="" style="width: 70%; margin-right: 20px;"/>
    </div>
+   
