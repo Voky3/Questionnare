@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("OnlineDotaznik.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f46a0f02532c7bdec2dd4277fe95f7ff7a5eb196")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fa83e2e56c4fd8819960bf1a83f80f3c60cbe80f")]
 [assembly: System.Reflection.AssemblyProductAttribute("OnlineDotaznik.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("OnlineDotaznik.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
