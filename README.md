@@ -40,8 +40,9 @@
    <img src="./ReadmeSources/execute.png" alt="" style="width: 50%; margin-right: 20px;"/>
    </div>
 
-4. Run the project in Visual Studio  
-   → The prebuilt frontend will open in your browser
+4. Run the project in Visual Studio 
+- <b>You may be prompted to create a self-signed certificate</b> in order for the ASP.NET to run properly. This is standard and you must <b>proceed</b> so the project can be run. 
+- The prebuilt frontend will open in your browser
 
 ---
 
