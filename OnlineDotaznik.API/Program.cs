@@ -30,8 +30,11 @@ if (app.Environment.IsDevelopment())
     app.UseSwaggerUI();
 }
 
+app.UseDefaultFiles();  // na index.html
+app.UseStaticFiles();
+
 app.UseHttpsRedirection();
-app.UseCors();
+app.UseCors();  
 
 // routování pøes controllery
 app.MapControllers();

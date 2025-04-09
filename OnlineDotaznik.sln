@@ -5,6 +5,22 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OnlineDotaznik.API", "OnlineDotaznik.API\OnlineDotaznik.API.csproj", "{A24548B4-C18B-458C-8E34-E2DA2C7E1FD1}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "frontend", "frontend", "{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}"
+	ProjectSection(SolutionItems) = preProject
+		frontend\.env = frontend\.env
+		frontend\.env.production = frontend\.env.production
+		frontend\.gitignore = frontend\.gitignore
+		frontend\eslint.config.js = frontend\eslint.config.js
+		frontend\index.html = frontend\index.html
+		frontend\package-lock.json = frontend\package-lock.json
+		frontend\package.json = frontend\package.json
+		frontend\README.md = frontend\README.md
+		frontend\tsconfig.app.json = frontend\tsconfig.app.json
+		frontend\tsconfig.json = frontend\tsconfig.json
+		frontend\tsconfig.node.json = frontend\tsconfig.node.json
+		frontend\vite.config.ts = frontend\vite.config.ts
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,5 +46,8 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C83A6AA2-6E8F-41B6-A300-B4C807396EA0}
 	EndGlobalSection
 EndGlobal
