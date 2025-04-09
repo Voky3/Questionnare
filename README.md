@@ -3,7 +3,19 @@
 - Last updated: 9.4.2025  
 - Project using ASP.NET backend with pre-compiled React + TS frontend
 
+## Table of Contents
+- [Prerequisites](#prerequisites)
+- [Setup](#setup)
+- [Frontend](#frontend)
+- [Output](#output)
 ---
+## Prerequisites
+
+- Visual Studio
+- .NET SDK 8.0
+- Microsoft SQL Server
+- SQL Server Management Studio (or alternative like Azure Data Studio)
+- `Node.js for building frontend`
 
 ## 🛠️ Setup
 
@@ -42,3 +54,13 @@ If you want to edit and rebuild the frontend:
 cd frontend
 npm install
 npm run build
+```
+---
+
+## Output
+
+- Record is checked and recorded in the Db
+- The response is returned as JSON and printed to the browser console
+<div style="display: flex; align-items: flex-start;">
+   <img src="./ReadmeSources/jsonResponse.png" alt="" style="width: 70%; margin-right: 20px;"/>
+   </div>
