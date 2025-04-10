@@ -23,7 +23,7 @@
 
 ## 🛠️ Setup
 
-1. Download and open the `.sln` in **Visual Studio**  
+1. Download or clone the project and open the `.sln` in **Visual Studio**  
 2. Make sure `OnlineDotaznik.API` is set as the **Startup project**
 3. **Create the database**:
    - Open **SQL Server Management Studio** (or any alternative)
