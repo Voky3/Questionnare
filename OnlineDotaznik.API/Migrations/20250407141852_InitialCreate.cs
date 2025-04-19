@@ -3,7 +3,7 @@ using Microsoft.EntityFrameworkCore.Migrations;
 
 #nullable disable
 
-namespace OnlineDotaznik.API.Migrations
+namespace OnlineQuestionnaire.API.Migrations
 {
     /// <inheritdoc />
     public partial class InitialCreate : Migration

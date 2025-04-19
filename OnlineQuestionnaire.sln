@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OnlineDotaznik.API", "OnlineDotaznik.API\OnlineDotaznik.API.csproj", "{A24548B4-C18B-458C-8E34-E2DA2C7E1FD1}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OnlineQuestionnaire.API", "OnlineDotaznik.API\OnlineQuestionnaire.API.csproj", "{A24548B4-C18B-458C-8E34-E2DA2C7E1FD1}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "frontend", "frontend", "{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}"
 	ProjectSection(SolutionItems) = preProject

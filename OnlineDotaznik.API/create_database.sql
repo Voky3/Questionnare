@@ -1,11 +1,11 @@
 -- Volitelné: vytvoření databáze, pokud ještě neexistuje
-IF NOT EXISTS (SELECT name FROM sys.databases WHERE name = N'OnlineDotaznik')
+IF NOT EXISTS (SELECT name FROM sys.databases WHERE name = N'OnlineQuestionnaire')
 BEGIN
-    CREATE DATABASE OnlineDotaznik;
+    CREATE DATABASE OnlineQuestionnaire;
 END
 GO
 
-USE OnlineDotaznik;
+USE OnlineQuestionnaire;
 GO
 
 -- Vytvoření tabulky Registrations

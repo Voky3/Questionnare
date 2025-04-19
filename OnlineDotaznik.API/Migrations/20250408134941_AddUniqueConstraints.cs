@@ -2,7 +2,7 @@
 
 #nullable disable
 
-namespace OnlineDotaznik.API.Migrations
+namespace OnlineQuestionnaire.API.Migrations
 {
     /// <inheritdoc />
     public partial class AddUniqueConstraints : Migration

@@ -4,11 +4,11 @@ using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
-using OnlineDotaznik.API.Data;
+using OnlineQuestionnaire.API.Data;
 
 #nullable disable
 
-namespace OnlineDotaznik.API.Migrations
+namespace OnlineQuestionnaire.API.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
     partial class ApplicationDbContextModelSnapshot : ModelSnapshot
@@ -22,7 +22,7 @@ namespace OnlineDotaznik.API.Migrations
 
             SqlServerModelBuilderExtensions.UseIdentityColumns(modelBuilder);
 
-            modelBuilder.Entity("OnlineDotaznik.API.Models.Registration", b =>
+            modelBuilder.Entity("OnlineQuestionnaire.API.Models.Registration", b =>
                 {
                     b.Property<int>("Id")
                         .ValueGeneratedOnAdd()

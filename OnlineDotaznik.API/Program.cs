@@ -1,5 +1,5 @@
 using Microsoft.EntityFrameworkCore;
-using OnlineDotaznik.API.Data;
+using OnlineQuestionnaire.API.Data;
 
 var builder = WebApplication.CreateBuilder(args);
 

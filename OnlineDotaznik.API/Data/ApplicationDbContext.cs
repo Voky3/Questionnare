@@ -1,7 +1,7 @@
 ﻿using Microsoft.EntityFrameworkCore;
-using OnlineDotaznik.API.Models;
+using OnlineQuestionnaire.API.Models;
 
-namespace OnlineDotaznik.API.Data;
+namespace OnlineQuestionnaire.API.Data;
 
 public class ApplicationDbContext(DbContextOptions<ApplicationDbContext> options) : DbContext(options)
 {

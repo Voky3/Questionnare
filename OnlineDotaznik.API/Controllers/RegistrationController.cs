@@ -1,9 +1,9 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
-using OnlineDotaznik.API.Data;
-using OnlineDotaznik.API.Models;
+using OnlineQuestionnaire.API.Data;
+using OnlineQuestionnaire.API.Models;
 
-namespace OnlineDotaznik.API.Controllers;
+namespace OnlineQuestionnaire.API.Controllers;
 
 
 /// <summary>

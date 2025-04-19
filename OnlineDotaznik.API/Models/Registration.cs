@@ -1,7 +1,7 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using System.ComponentModel.DataAnnotations;
 
-namespace OnlineDotaznik.API.Models;
+namespace OnlineQuestionnaire.API.Models;
 
 /// <summary>
 /// Represents submitted registration entry
